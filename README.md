@@ -1,2 +1,5 @@
 # 4bit-8-Register-File-
-All the verilog projects that I have been worked on/will be working on.
+This is 4bit*8 register file memory used in L1 caches.
+The implementation is in Verilog.
+This project was done by me as a part of Coursework.
+
